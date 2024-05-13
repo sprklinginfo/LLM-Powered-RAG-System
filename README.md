@@ -61,12 +61,13 @@
 
 ### Database
 
+- [qdrant](https://github.com/qdrant/qdrant) - High-performance, massive-scale Vector Database for the next generation of AI. Qdrant is also available as a fully managed Qdrant Cloud ⛅ including a free tier. - ![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social)
 - [vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. - ![GitHub Repo stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=social)
 - [txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows - ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 - [infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search - ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social)
 - [postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. - ![GitHub Repo stars](https://img.shields.io/github/stars/postgresml/postgresml?style=social)
 - [lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
-- 
+  
 
 ### Optimize Method
 
