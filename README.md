@@ -30,6 +30,7 @@
 ## Projects
 
 - [quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! - Ship RAG based LLM web apps in seconds. - ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone. - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social)
 - [fastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! - ![GitHub Repo stars](https://img.shields.io/github/stars/labring/FastGPT?style=social)
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 - ![GitHub Repo stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social)
 - [LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答 - ![GitHub Repo stars](https://img.shields.io/github/stars/X-D-Lab/LangChain-ChatGLM-Webui?style=social)
