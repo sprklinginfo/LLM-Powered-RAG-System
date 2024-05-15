@@ -7,6 +7,7 @@
     - [Chat with Documents](#chat-with-documents)
     - [Database](#database)
     - [Optimize Method](#optimize-method)
+    - [Data Chunking](#data-chunking)
     - [Others](#others)
   - [Papers](#papers)
   - [Blog](#blog)
@@ -80,6 +81,11 @@
 - [swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open source software that simultaneously searches multiple content sources and returns AI ranked results. - ![GitHub Repo stars](https://img.shields.io/github/stars/swirlai/swirl-search?style=social)
 - [kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/kernel-memory?style=social)
 
+### Data Chunking
+
+- [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX... - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
+- [Filechipper API](https://docs.vault.pash.city/docs/chunking) - A free API service for file chunking PDF, HTML, DOCX, TXT file, may become paid service.
+  
 ### Others
 
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
