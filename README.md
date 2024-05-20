@@ -61,6 +61,7 @@
 - [chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI - ![GitHub Repo stars](https://img.shields.io/github/stars/BruceMacD/chatd?style=social)
 - [IncarnaMind](https://github.com/junruxiong/IncarnaMind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
 - [ArXivChatGuru](https://github.com/RedisVentures/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache. - ![GitHub Repo stars](https://img.shields.io/github/stars/RedisVentures/ArXivChatGuru?style=social)
+- [h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. - ![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social)
 
 ### Database
 
@@ -80,6 +81,7 @@
 - [instructor](https://github.com/jxnl/instructor) - Your Gateway to Structured Outputs with OpenAI
 - [swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open source software that simultaneously searches multiple content sources and returns AI ranked results. - ![GitHub Repo stars](https://img.shields.io/github/stars/swirlai/swirl-search?style=social)
 - [kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/kernel-memory?style=social)
+- [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - a tool for finding optimal RAG pipeline for “your data.” 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social)
 
 ### Data Chunking
 
@@ -91,6 +93,7 @@
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/gabrielchua/RAGxplorer?style=social)
 
+  
 ## Papers
 
 - [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) - This repo aims to record advanced papers of Retrieval Agumented Generation (RAG) in LLMs.
