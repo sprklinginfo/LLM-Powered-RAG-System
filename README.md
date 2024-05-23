@@ -9,6 +9,7 @@
     - [Optimize Method](#optimize-method)
     - [Data Chunking](#data-chunking)
     - [Others](#others)
+  - [LLMs](#llms)
   - [Papers](#papers)
   - [Blog](#blog)
   - [Other Resources](#other-resources)
@@ -95,11 +96,14 @@
 - [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/gabrielchua/RAGxplorer?style=social)
 - [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - a fully customizable AI chat component that can be injected into your website with minimal to no effort. - ![GitHub Repo stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social)
 
+## LLMs
+
+- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - a series of end-side multimodal LLMs (MLLMs) designed for vision-language understanding. Models take image and text as inputs and provide high-quality text outputs. - ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)
 
   
 ## Papers
 
-- [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) - This repo aims to record advanced papers of Retrieval Agumented Generation (RAG) in LLMs.
+- [Awesome-LLM-RAG](https://github.com/OpenBMB/MiniCPM-V) - This repo aims to record advanced papers of Retrieval Agumented Generation (RAG) in LLMs.
 
 
 ## Blog
