@@ -44,6 +44,7 @@
 - [QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 - [danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. - ![GitHub Repo stars](https://img.shields.io/github/stars/danswer-ai/danswer?style=social)
 - [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language - ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/rags?style=social)
+- [RAGFlow](https://github.com/infiniflow/ragflow) -  an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. - ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social)
 - [khoj](https://github.com/khoj-ai/khoj) - A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. - ![GitHub Repo stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social)
 - [Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate - ![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/Verba?style=social)
 - [llm-app](https://github.com/pathwaycom/llm-app) - LLM App templates for RAG, knowledge mining, and stream analytics. Ready to run with Docker,⚡in sync with your data sources. - ![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/llm-app?style=social)
@@ -95,6 +96,7 @@
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/gabrielchua/RAGxplorer?style=social)
 - [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - a fully customizable AI chat component that can be injected into your website with minimal to no effort. - ![GitHub Repo stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social)
+- [Ollama-Laravel](https://github.com/cloudstudio/ollama-laravel) - a Laravel package providing seamless integration with the Ollama API.. - ![GitHub Repo stars](https://img.shields.io/github/stars/cloudstudio/ollama-laravel?style=social)
 
 ## LLMs
 
