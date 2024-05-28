@@ -8,6 +8,7 @@
     - [Database](#database)
     - [Optimize Method](#optimize-method)
     - [Data Chunking](#data-chunking)
+    - [Fine-tuning](#fine-tuning)
     - [Others](#others)
   - [LLMs](#llms)
   - [Papers](#papers)
@@ -90,6 +91,10 @@
 
 - [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX... - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
 - [Filechipper API](https://docs.vault.pash.city/docs/chunking) - A free API service for file chunking PDF, HTML, DOCX, TXT file, may become paid service.
+
+### Fine-tuning
+
+- [mistral-finetune](https://github.com/mistralai/mistral-finetune) - mistral-finetune is a light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models.... - ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-finetune?style=social)
   
 ### Others
 
@@ -100,7 +105,7 @@
 
 ## LLMs
 
-- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - a series of end-side multimodal LLMs (MLLMs) designed for vision-language understanding. Models take image and text as inputs and provide high-quality text outputs. - ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)
+- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - a series of end-side multimodal LLMs (MLLMs) designed for vision-language understanding. Models take image and text as inputs and provide high-quality text outputs.- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)
 
   
 ## Papers
