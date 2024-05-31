@@ -4,6 +4,7 @@
   - [Frameworks](#frameworks)
   - [Projects](#projects)
   - [Components](#components)
+    - [AI Agents](#ai-agents)
     - [Chat with Documents](#chat-with-documents)
     - [Database](#database)
     - [Optimize Method](#optimize-method)
@@ -51,10 +52,14 @@
 - [llm-app](https://github.com/pathwaycom/llm-app) - LLM App templates for RAG, knowledge mining, and stream analytics. Ready to run with Docker,⚡in sync with your data sources. - ![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/llm-app?style=social)
 - [casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️ - ![GitHub Repo stars](https://img.shields.io/github/stars/casibase/casibase?style=social)
 - [trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM - ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/trt-llm-rag-windows?style=social)
-- [GPT-RAG](https://github.com/Azure/GPT-RAG) - GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. - ![GitHub Repo stars](https://img.shields.io/github/stars/Azure/GPT-RAG?style=social)
+- [GPT-RAG](https://github.com/Azure/GPT-RAG) - GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. - ![GitHub Repo stars](https://img.shields.io/github/stars/Azure/GPT-RAG?style=social) 
 - [rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch - ![GitHub Repo stars](https://img.shields.io/github/stars/pchunduri6/rag-demystified?style=social)
 
 ## Components
+
+### AI Agents
+- [AutoGroq](https://github.com/jgravelle/AutoGroq) - groundbreaking tool that revolutionizes the way users interact with AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements. - ![GitHub Repo stars](https://img.shields.io/github/stars/jgravelle/AutoGroq?style=social) 💥 :boom:
+  
 
 ### Chat with Documents
 
