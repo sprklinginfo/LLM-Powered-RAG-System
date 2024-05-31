@@ -107,6 +107,7 @@
 - [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/gabrielchua/RAGxplorer?style=social)
 - [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - a fully customizable AI chat component that can be injected into your website with minimal to no effort. - ![GitHub Repo stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social)
 - [Ollama-Laravel](https://github.com/cloudstudio/ollama-laravel) - a Laravel package providing seamless integration with the Ollama API.. - ![GitHub Repo stars](https://img.shields.io/github/stars/cloudstudio/ollama-laravel?style=social)
+- [fabric](https://github.com/danielmiessler/fabric) - an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. - ![GitHub Repo stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=social)
 
 ## LLMs
 
