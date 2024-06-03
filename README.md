@@ -82,7 +82,7 @@
 - [lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
   
 
-### Optimize Method
+### Optimize/Evaluation Method
 
 - [sparrow](https://github.com/katanaml/sparrow) - Data extraction with ML and LLM - ![GitHub Repo stars](https://img.shields.io/github/stars/katanaml/sparrow?style=social)
 - [fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding - ![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social)
@@ -91,6 +91,7 @@
 - [swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open source software that simultaneously searches multiple content sources and returns AI ranked results. - ![GitHub Repo stars](https://img.shields.io/github/stars/swirlai/swirl-search?style=social)
 - [kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/kernel-memory?style=social)
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - a tool for finding optimal RAG pipeline for “your data.” 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social)
+- [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems.  - ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 
 ### Data Chunking
 
