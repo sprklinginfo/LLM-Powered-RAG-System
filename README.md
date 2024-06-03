@@ -7,7 +7,7 @@
     - [AI Agents](#ai-agents)
     - [Chat with Documents](#chat-with-documents)
     - [Database](#database)
-    - [Optimize Method](#optimize-method)
+    - [Optimize/Evaluation Method](#optimizeevaluation-method)
     - [Data Chunking](#data-chunking)
     - [Fine-tuning](#fine-tuning)
     - [Others](#others)
