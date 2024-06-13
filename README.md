@@ -11,6 +11,7 @@
     - [Data Chunking](#data-chunking)
     - [Fine-tuning](#fine-tuning)
     - [Others](#others)
+  - [Inference server](#inference-server)
   - [LLMs](#llms)
   - [Papers](#papers)
   - [Blog](#blog)
@@ -111,6 +112,9 @@
 - [fabric](https://github.com/danielmiessler/fabric) - an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. - ![GitHub Repo stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=social)
 - [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. - ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social)
 
+## Inference server
+
+- [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - a fast LLM inference platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings. - ![GitHub Repo stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social)
 
 ## LLMs
 
