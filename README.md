@@ -111,6 +111,8 @@
 - [Ollama-Laravel](https://github.com/cloudstudio/ollama-laravel) - a Laravel package providing seamless integration with the Ollama API.. - ![GitHub Repo stars](https://img.shields.io/github/stars/cloudstudio/ollama-laravel?style=social)
 - [fabric](https://github.com/danielmiessler/fabric) - an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. - ![GitHub Repo stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=social)
 - [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. - ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social)
+- [Langtrace](https://github.com/Scale3-Labs/langtrace) - an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. - ![GitHub Repo stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social)
+
 
 ## Inference server
 
