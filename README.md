@@ -121,6 +121,7 @@
 ## LLMs
 
 - [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - a series of end-side multimodal LLMs (MLLMs) designed for vision-language understanding. Models take image and text as inputs and provide high-quality text outputs.- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)
+- [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - an open-source Mixture-of-Experts (MoE) code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks. - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2?style=social)
 
   
 ## Papers
