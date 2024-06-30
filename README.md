@@ -28,7 +28,7 @@
 - [fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework - ![GitHub Repo stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=social)
 - [llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. - ![GitHub Repo stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social)
 - [llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production. - ![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-applications?style=social)
-- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology - ![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - An open-source AI native data app development framework with AWEL(Agentic Workflow Expression Language) and agents. Revolutionizing Database Interactions with Private LLM Technology - ![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)
 - [langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming - ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 - [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG. - ![GitHub Repo stars](https://img.shields.io/github/stars/Sinaptik-AI/pandas-ai?style=social)
 - [canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone - ![GitHub Repo stars](https://img.shields.io/github/stars/pinecone-io/canopy?style=social)
@@ -37,6 +37,7 @@
 
 ## Projects
 
+- [Dify](https://github.com/langgenius/dify) - an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.  - ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 - [quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! - Ship RAG based LLM web apps in seconds. - ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone. - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social)
 - [Jan](https://github.com/janhq/jan) - Jan is an open-source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM). - ![GitHub Repo stars](https://img.shields.io/github/stars/janhq/jan?style=social)
