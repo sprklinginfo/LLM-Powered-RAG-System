@@ -99,12 +99,16 @@
 
 ### Data Chunking
 
-- [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX... - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
+- [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX. - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
 - [Filechipper API](https://docs.vault.pash.city/docs/chunking) - A free API service for file chunking PDF, HTML, DOCX, TXT file, may become paid service.
+- [OmniParse](https://github.com/adithya-s-k/omniparse)  - OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more ![GitHub Repo stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social)
 
 ### Fine-tuning
 
 - [mistral-finetune](https://github.com/mistralai/mistral-finetune) - mistral-finetune is a light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models.... - ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-finetune?style=social)
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024). - ![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social)
+- [axolotl](https://github.com/axolotl-ai-cloud/axolotl) - a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.. - ![GitHub Repo stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social)
+
   
 ### Others
 
