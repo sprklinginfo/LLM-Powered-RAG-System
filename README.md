@@ -126,6 +126,8 @@
 ## Inference server
 
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - a fast LLM inference platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings. - ![GitHub Repo stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social)
+- [MInference](https://github.com/microsoft/MInference) - To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference?style=social)
+
 
 ## LLMs
 
