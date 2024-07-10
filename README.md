@@ -63,6 +63,7 @@
 
 ### AI Agents
 - [AutoGroq](https://github.com/jgravelle/AutoGroq) - groundbreaking tool that revolutionizes the way users interact with AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements. - ![GitHub Repo stars](https://img.shields.io/github/stars/jgravelle/AutoGroq?style=social) 💥 :boom:
+- [micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you: JavaScript maily - ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/micro-agent?style=social) 💥 :boom:
   
 
 ### Chat with Documents
