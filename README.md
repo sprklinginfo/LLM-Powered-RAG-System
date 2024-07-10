@@ -101,9 +101,12 @@
 
 ### Data Chunking
 
+- [OmniParse](https://github.com/adithya-s-k/omniparse)  - OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more ![GitHub Repo stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social)
+- [Open Parse)](https://github.com/Filimoa/open-parse)  - Easily chunks complex documents the same way a human would, including Semantic Processing. ![GitHub Repo stars](https://img.shields.io/github/stars/Filimoa/open-parse?style=social)
+- [Unstructured](https://github.com/Unstructured-IO/unstructured)  - open-source components for ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and many more.  ![GitHub Repo stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social)
 - [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX. - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
 - [Filechipper API](https://docs.vault.pash.city/docs/chunking) - A free API service for file chunking PDF, HTML, DOCX, TXT file, may become paid service.
-- [OmniParse](https://github.com/adithya-s-k/omniparse)  - OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more ![GitHub Repo stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social)
+  
 
 ### Fine-tuning
 
