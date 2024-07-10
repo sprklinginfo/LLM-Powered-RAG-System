@@ -137,6 +137,8 @@
 - [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - an open-source Mixture-of-Experts (MoE) code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks. - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2?style=social)
 - [Trol](https://github.com/ByungKwanLee/TroL) - Traversal of Layers for Large Language and Vision Models. - ![GitHub Repo stars](https://img.shields.io/github/stars/ByungKwanLee/TroL?style=social)
 - [FunAudioLLM](https://github.com/FunAudioLLM/FunAudioLLM-APP) - This project hosts two exciting applications leveraging advanced audio understand and speech generation models to bring your audio experiences to life: `CosyVoice` and `SenseVoice` - ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/FunAudioLLM-APP?style=social)
+- [MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024. - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social)
+
 
   
 ## Papers
