@@ -106,6 +106,8 @@
 - [Unstructured](https://github.com/Unstructured-IO/unstructured)  - open-source components for ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and many more.  ![GitHub Repo stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social)
 - [ExtractThinker](https://github.com/enoch3712/ExtractThinker) - Library to extract data from files and documents agnostically using LLMs. extract_thinker provides ORM-style interaction between files and LLMs, allowing for flexible and powerful document extraction workflows. - ![GitHub Repo stars](https://img.shields.io/github/stars/enoch3712/ExtractThinker?style=social)
 - [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX. - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
+- [python-readability](https://github.com/buriy/python-readability) - Given an HTML document, extract and clean up the main body text and title. - ![GitHub Repo stars](https://img.shields.io/github/stars/buriy/python-readability?style=social)
+
 
 
 ### Fine-tuning
