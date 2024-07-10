@@ -154,6 +154,7 @@
 
 ## Other Resources
 
+- [AGI-survey](https://github.com/ulab-uiuc/AGI-survey) - Awesome AGI Survey. Must-read papers on Artificial General Intelligence.
 - [rag-resources](https://github.com/mrdbourke/rag-resources) - A collection of curated RAG (Retrieval Augmented Generation) resources.
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
