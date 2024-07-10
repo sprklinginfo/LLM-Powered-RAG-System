@@ -104,9 +104,9 @@
 - [OmniParse](https://github.com/adithya-s-k/omniparse)  - OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more ![GitHub Repo stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social)
 - [Open Parse)](https://github.com/Filimoa/open-parse)  - Easily chunks complex documents the same way a human would, including Semantic Processing. ![GitHub Repo stars](https://img.shields.io/github/stars/Filimoa/open-parse?style=social)
 - [Unstructured](https://github.com/Unstructured-IO/unstructured)  - open-source components for ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and many more.  ![GitHub Repo stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social)
+- [ExtractThinker](https://github.com/enoch3712/ExtractThinker) - Library to extract data from files and documents agnostically using LLMs. extract_thinker provides ORM-style interaction between files and LLMs, allowing for flexible and powerful document extraction workflows. - ![GitHub Repo stars](https://img.shields.io/github/stars/enoch3712/ExtractThinker?style=social)
 - [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX. - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
-- [Filechipper API](https://docs.vault.pash.city/docs/chunking) - A free API service for file chunking PDF, HTML, DOCX, TXT file, may become paid service.
-  
+
 
 ### Fine-tuning
 
@@ -132,6 +132,7 @@
 
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - a fast LLM inference platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings. - ![GitHub Repo stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social)
 - [MInference](https://github.com/microsoft/MInference) - To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference?style=social)
+- [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs). - ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)
 
 
 ## LLMs
