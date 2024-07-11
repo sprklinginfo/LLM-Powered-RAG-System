@@ -161,6 +161,7 @@
 
 ## Other Resources
 
+- [funNLP](https://github.com/fighting41love/funNLP) - NLP民工的乐园: 几乎最全的中文NLP资源库, 在入门到熟悉NLP的过程中，用到了很多github上的包，遂整理了一下，分享在这里。
 - [AGI-survey](https://github.com/ulab-uiuc/AGI-survey) - Awesome AGI Survey. Must-read papers on Artificial General Intelligence.
 - [rag-resources](https://github.com/mrdbourke/rag-resources) - A collection of curated RAG (Retrieval Augmented Generation) resources.
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
