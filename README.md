@@ -85,7 +85,7 @@
 - [txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows - ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 - [infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search - ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social)
 - [postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. - ![GitHub Repo stars](https://img.shields.io/github/stars/postgresml/postgresml?style=social)
-- [lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
+- [lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! - ![GitHub Repo stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social)
   
 
 ### Optimize/Evaluation Method
