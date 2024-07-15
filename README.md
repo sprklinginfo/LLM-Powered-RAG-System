@@ -145,6 +145,7 @@
 - [Trol](https://github.com/ByungKwanLee/TroL) - Traversal of Layers for Large Language and Vision Models. - ![GitHub Repo stars](https://img.shields.io/github/stars/ByungKwanLee/TroL?style=social)
 - [FunAudioLLM](https://github.com/FunAudioLLM/FunAudioLLM-APP) - This project hosts two exciting applications leveraging advanced audio understand and speech generation models to bring your audio experiences to life: `CosyVoice` and `SenseVoice` - ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/FunAudioLLM-APP?style=social)
 - [MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024. - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social)
+- [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI. - ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social)
 
 
   
