@@ -146,6 +146,8 @@
 - [FunAudioLLM](https://github.com/FunAudioLLM/FunAudioLLM-APP) - This project hosts two exciting applications leveraging advanced audio understand and speech generation models to bring your audio experiences to life: `CosyVoice` and `SenseVoice` - ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/FunAudioLLM-APP?style=social)
 - [MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024. - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social)
 - [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI. - ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social)
+- [SmolLM](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) - A series of smol LLMs: 135M, 360M and 1.7B. We release base and Instruct models as well as the training corpus and some WebGPU demos. blazingly fast and remarkably powerful
+
 
 
   
