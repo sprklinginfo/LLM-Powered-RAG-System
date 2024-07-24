@@ -66,6 +66,7 @@
 ### AI Agents
 - [AutoGroq](https://github.com/jgravelle/AutoGroq) - groundbreaking tool that revolutionizes the way users interact with AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements. - ![GitHub Repo stars](https://img.shields.io/github/stars/jgravelle/AutoGroq?style=social) 💥 :boom:
 - [micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you: JavaScript maily - ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/micro-agent?style=social) 💥 :boom:
+- [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - This repo allows you to run Llama 3.1 as a system capable of performing "agentic" tasks - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social) 
   
 
 ### Chat with Documents
