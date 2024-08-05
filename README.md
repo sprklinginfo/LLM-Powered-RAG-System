@@ -103,6 +103,8 @@
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - a tool for finding optimal RAG pipeline for “your data.” 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social)
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems.  - ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications - ![GitHub Repo stars](https://img.shields.io/github/stars/YiVal/YiVal?style=social)
+- [LLM Comparator](https://github.com/pair-code/llm-comparator) - LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team. - ![GitHub Repo stars](https://img.shields.io/github/stars/pair-code/llm-comparator?style=social)
+
 
 ### Data Chunking
 
