@@ -153,7 +153,8 @@
 - [MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024. - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social)
 - [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI. - ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social)
 - [SmolLM](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) - A series of smol LLMs: 135M, 360M and 1.7B. We release base and Instruct models as well as the training corpus and some WebGPU demos. blazingly fast and remarkably powerful
-
+- [CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 
 
   
@@ -166,6 +167,7 @@
 
 - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 - [A-Guide-to-Retrieval-Augmented-LLM](https://github.com/Wang-Shuo/A-Guide-to-Retrieval-Augmented-LLM)
+- [一文详谈20多种RAG优化方法](https://mp.weixin.qq.com/s/xMsPh8qicRD395vjFR250A)
 
 
 ## Other Resources
