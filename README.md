@@ -115,6 +115,7 @@
 - [ExtractThinker](https://github.com/enoch3712/ExtractThinker) - Library to extract data from files and documents agnostically using LLMs. extract_thinker provides ORM-style interaction between files and LLMs, allowing for flexible and powerful document extraction workflows. - ![GitHub Repo stars](https://img.shields.io/github/stars/enoch3712/ExtractThinker?style=social)
 - [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX. - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
 - [python-readability](https://github.com/buriy/python-readability) - Given an HTML document, extract and clean up the main body text and title. - ![GitHub Repo stars](https://img.shields.io/github/stars/buriy/python-readability?style=social)
+- [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - The LLM-Aided OCR Project is an advanced system designed to significantly enhance the quality of Optical Character Recognition (OCR) output. By leveraging cutting-edge natural language processing techniques and large language models (LLMs), this project transforms raw OCR text into highly accurate, well-formatted, and readable documents.. - ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llm_aided_ocr?style=social)
 
 
 
@@ -156,6 +157,7 @@
 - [SmolLM](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) - A series of smol LLMs: 135M, 360M and 1.7B. We release base and Instruct models as well as the training corpus and some WebGPU demos. blazingly fast and remarkably powerful
 - [CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [Flux](https://github.com/black-forest-labs/flux) - the latest promising open-source AI image generation tool. It is capable of running on consumer-grade laptops.  - ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)
 
 
   
