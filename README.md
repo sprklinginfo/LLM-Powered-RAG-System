@@ -35,7 +35,6 @@
 - [autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds. - ![GitHub Repo stars](https://img.shields.io/github/stars/safevideo/autollm?style=social) :bangbang: it can set up a fastAPI server quickly,
 - [GraphRAG](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system. A data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)
 - [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models . - ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social)
-- 
 
 
 ## Projects
