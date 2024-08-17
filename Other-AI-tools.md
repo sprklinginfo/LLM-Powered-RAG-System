@@ -20,3 +20,9 @@
 
 - [Aider](https://github.com/paul-gauthier/aider) - an open-source AI pair programming tool that runs in your terminal, allowing you to collaborate with Large Language Models (LLMs) like GPT-4 and Claude to edit code in your local git repository, automatically committing changes and supporting multiple programming languages. ![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social)
 - [Sweep](https://github.com/sweepai/sweep) - an open-source AI-powered software developer that automatically transforms GitHub issues describing bugs and feature requests into code changes, streamlining the development process for small tasks across various programming languages. ![GitHub Repo stars](https://img.shields.io/github/stars/sweepai/sweep?style=social)
+
+
+## AI-Analysis
+
+- [artificialanalysis.ai](https://artificialanalysis.ai/) - Artificial Analysis is an independent platform that provides comprehensive analysis and comparison of AI language models and API providers, offering detailed insights on quality, speed, and pricing to help users understand the AI landscape and choose the best model for their specific use-case. 
+
