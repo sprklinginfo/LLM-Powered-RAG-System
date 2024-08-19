@@ -117,6 +117,7 @@
 - [nlm-ingestor](https://github.com/nlmatics/nlm-ingestor) - This repo provides the service code for llmsherpa API to parse PDF, HTML, DOCX, PPTX. - ![GitHub Repo stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social)
 - [python-readability](https://github.com/buriy/python-readability) - Given an HTML document, extract and clean up the main body text and title. - ![GitHub Repo stars](https://img.shields.io/github/stars/buriy/python-readability?style=social)
 - [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - The LLM-Aided OCR Project is an advanced system designed to significantly enhance the quality of Optical Character Recognition (OCR) output. By leveraging cutting-edge natural language processing techniques and large language models (LLMs), this project transforms raw OCR text into highly accurate, well-formatted, and readable documents.. - ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llm_aided_ocr?style=social)
+- [Datachain](https://github.com/iterative/datachain) - a modern Pythonic data-frame library designed for artificial intelligence. It is made to organize your unstructured data into datasets and wrangle it at scale on your local machine. - ![GitHub Repo stars](https://img.shields.io/github/stars/iterative/datachain?style=social)
 
 
 
