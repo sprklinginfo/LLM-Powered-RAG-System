@@ -35,6 +35,7 @@
 - [autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds. - ![GitHub Repo stars](https://img.shields.io/github/stars/safevideo/autollm?style=social) :bangbang: it can set up a fastAPI server quickly,
 - [GraphRAG](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system. A data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)
 - [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models . - ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social)
+- [Haystack](https://github.com/deepset-ai/haystack) - an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more. - ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 
 
 ## Projects
@@ -106,6 +107,7 @@
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems.  - ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications - ![GitHub Repo stars](https://img.shields.io/github/stars/YiVal/YiVal?style=social)
 - [LLM Comparator](https://github.com/pair-code/llm-comparator) - LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team. - ![GitHub Repo stars](https://img.shields.io/github/stars/pair-code/llm-comparator?style=social)
+- [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.  - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
 
 
 ### Data Chunking
