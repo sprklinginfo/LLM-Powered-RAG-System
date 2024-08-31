@@ -110,6 +110,7 @@
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.  - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
 
 
+
 ### Data Chunking
 
 - [OmniParse](https://github.com/adithya-s-k/omniparse)  - OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more ![GitHub Repo stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social)
@@ -128,6 +129,7 @@
 - [mistral-finetune](https://github.com/mistralai/mistral-finetune) - mistral-finetune is a light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models.... - ![GitHub Repo stars](https://img.shields.io/github/stars/mistralai/mistral-finetune?style=social)
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024). - ![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social)
 - [axolotl](https://github.com/axolotl-ai-cloud/axolotl) - a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.. - ![GitHub Repo stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social)
+- [LlamaDuo](https://github.com/deep-diver/llamaduo) - This project showcases an LLMOps pipeline that fine-tunes a small-size LLM model to prepare for the outage of the service LLM.  - ![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/llamaduo?style=social)
 
   
 ### Others
