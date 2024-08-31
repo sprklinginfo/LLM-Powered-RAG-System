@@ -150,6 +150,7 @@
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - a fast LLM inference platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings. - ![GitHub Repo stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social)
 - [MInference](https://github.com/microsoft/MInference) - To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference?style=social)
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs). - ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)
+- [LitServe](https://github.com/Lightning-AI/LitServe) - an easy-to-use, flexible serving engine for AI models built on FastAPI. Features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model. - ![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social)
 
 
 ## LLMs
