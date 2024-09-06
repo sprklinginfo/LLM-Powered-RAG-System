@@ -64,7 +64,7 @@
 - [LARS](https://github.com/abgulati/LARS) - An application for running LLMs locally on your device, with your documents, facilitating detailed citations in generated responses. - ![GitHub Repo stars](https://img.shields.io/github/stars/abgulati/LARS?style=social)
 - [SemanticFinder](https://github.com/do-me/SemanticFinder) - frontend-only live semantic search with transformers.js. - ![GitHub Repo stars](https://img.shields.io/github/stars/do-me/SemanticFinder?style=social)
 - [MindSearch](https://github.com/InternLM/MindSearch) - an open-source AI Search Engine Framework with Perplexity.ai Pro performance. - ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)
-
+- [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts) - a collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API.  - ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts?style=social)
 
 ## Components
 
