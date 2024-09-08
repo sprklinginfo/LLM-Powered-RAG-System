@@ -145,6 +145,7 @@
 - [Langtrace](https://github.com/Scale3-Labs/langtrace) - an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. - ![GitHub Repo stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social)
 - [tokencost](https://github.com/AgentOps-AI/tokencost) - Helps calculate the USD cost of using major Large Language Model (LLMs) APIs by calculating the estimated cost of prompts and completions. - ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/tokencost?style=social)
 - [quality-prompts](https://github.com/sarthakrastogi/quality-prompts) - Use and evaluate prompting techniques quickly. - ![GitHub Repo stars](https://img.shields.io/github/stars/sarthakrastogi/quality-prompts?style=social)
+- [Laminar](https://github.com/lmnr-ai/lmnr) - Open-Source observability, analytics, evals and prompt chains for complex LLM apps. - ![GitHub Repo stars](https://img.shields.io/github/stars/lmnr-ai/lmnr?style=social)
 
 
 ## Inference server
