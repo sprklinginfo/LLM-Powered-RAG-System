@@ -65,14 +65,15 @@
 - [SemanticFinder](https://github.com/do-me/SemanticFinder) - frontend-only live semantic search with transformers.js. - ![GitHub Repo stars](https://img.shields.io/github/stars/do-me/SemanticFinder?style=social)
 - [MindSearch](https://github.com/InternLM/MindSearch) - an open-source AI Search Engine Framework with Perplexity.ai Pro performance. - ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)
 - [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts) - a collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API.  - ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts?style=social)
-- [Controllable Agent for Complex RAG](https://github.com/NirDiamant/Controllable-RAG-Agent) - n advanced Retrieval-Augmented Generation (RAG) solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. - ![GitHub Repo stars](https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=social)
+
 
 ## Components
 
 ### AI Agents
 - [AutoGroq](https://github.com/jgravelle/AutoGroq) - groundbreaking tool that revolutionizes the way users interact with AI assistants. By dynamically generating tailored teams of AI agents based on your project requirements. - ![GitHub Repo stars](https://img.shields.io/github/stars/jgravelle/AutoGroq?style=social) 💥 :boom:
 - [micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you: JavaScript maily - ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/micro-agent?style=social) 💥 :boom:
-- [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - This repo allows you to run Llama 3.1 as a system capable of performing "agentic" tasks - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social) 
+- [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - This repo allows you to run Llama 3.1 as a system capable of performing "agentic" tasks - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
+- [Controllable Agent for Complex RAG](https://github.com/NirDiamant/Controllable-RAG-Agent) - n advanced Retrieval-Augmented Generation (RAG) solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. - ![GitHub Repo stars](https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=social)
   
 
 ### Chat with Documents
@@ -152,6 +153,7 @@
 - [MInference](https://github.com/microsoft/MInference) - To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference?style=social)
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs). - ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)
 - [LitServe](https://github.com/Lightning-AI/LitServe) - an easy-to-use, flexible serving engine for AI models built on FastAPI. Features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model. - ![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social)
+- [SGLang](https://github.com/sgl-project/sglang) - a fast-serving framework for large language models and vision language models. - ![GitHub Repo stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)
 
 
 ## LLMs
