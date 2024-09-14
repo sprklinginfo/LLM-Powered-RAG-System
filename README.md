@@ -8,7 +8,7 @@
     - [Chat with Documents](#chat-with-documents)
     - [Database](#database)
     - [Optimize/Evaluation Method](#optimizeevaluation-method)
-    - [Data Chunking](#data-chunking)
+    - [Data Prep](#data-prep)
     - [Fine-tuning](#fine-tuning)
     - [Others](#others)
   - [Inference server](#inference-server)
@@ -113,7 +113,7 @@
 
 
 
-### Data Chunking
+### Data Prep
 
 - [OmniParse](https://github.com/adithya-s-k/omniparse)  - OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more ![GitHub Repo stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social)
 - [Open Parse)](https://github.com/Filimoa/open-parse)  - Easily chunks complex documents the same way a human would, including Semantic Processing. ![GitHub Repo stars](https://img.shields.io/github/stars/Filimoa/open-parse?style=social)
@@ -123,7 +123,7 @@
 - [python-readability](https://github.com/buriy/python-readability) - Given an HTML document, extract and clean up the main body text and title. - ![GitHub Repo stars](https://img.shields.io/github/stars/buriy/python-readability?style=social)
 - [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - The LLM-Aided OCR Project is an advanced system designed to significantly enhance the quality of Optical Character Recognition (OCR) output. By leveraging cutting-edge natural language processing techniques and large language models (LLMs), this project transforms raw OCR text into highly accurate, well-formatted, and readable documents.. - ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llm_aided_ocr?style=social)
 - [Datachain](https://github.com/iterative/datachain) - a modern Pythonic data-frame library designed for artificial intelligence. It is made to organize your unstructured data into datasets and wrangle it at scale on your local machine. - ![GitHub Repo stars](https://img.shields.io/github/stars/iterative/datachain?style=social)
-
+- [Jina Reader-LM](https://huggingface.co/jinaai/reader-lm-1.5bn) - take noisy HTML and parse it into clean and usable Markdown for training and reasoning.
 
 
 ### Fine-tuning
