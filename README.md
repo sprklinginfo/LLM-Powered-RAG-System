@@ -124,6 +124,7 @@
 - [llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - The LLM-Aided OCR Project is an advanced system designed to significantly enhance the quality of Optical Character Recognition (OCR) output. By leveraging cutting-edge natural language processing techniques and large language models (LLMs), this project transforms raw OCR text into highly accurate, well-formatted, and readable documents.. - ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llm_aided_ocr?style=social)
 - [Datachain](https://github.com/iterative/datachain) - a modern Pythonic data-frame library designed for artificial intelligence. It is made to organize your unstructured data into datasets and wrangle it at scale on your local machine. - ![GitHub Repo stars](https://img.shields.io/github/stars/iterative/datachain?style=social)
 - [Jina Reader-LM](https://huggingface.co/jinaai/reader-lm-1.5bn) - take noisy HTML and parse it into clean and usable Markdown for training and reasoning.
+- [Introducing Contextual Retrieval (blog post)](https://www.anthropic.com/news/contextual-retrieval) - Anthropic shows how to semantically chunk documents, which dramatically improves performance while only costing $1/million chunks due to caching.
 
 
 ### Fine-tuning
