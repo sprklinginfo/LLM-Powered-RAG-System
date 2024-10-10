@@ -110,7 +110,7 @@
 - [YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications - ![GitHub Repo stars](https://img.shields.io/github/stars/YiVal/YiVal?style=social)
 - [LLM Comparator](https://github.com/pair-code/llm-comparator) - LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team. - ![GitHub Repo stars](https://img.shields.io/github/stars/pair-code/llm-comparator?style=social)
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.  - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
-
+- [Athina](https://github.com/athina-ai/athina-evals) - Athina is an Observability and Experimentation platform for AI teams, Python SDK for running evaluations on LLM generated responses.  - ![GitHub Repo stars](https://img.shields.io/github/stars/athina-ai/athina-evals?style=social)
 
 
 ### Data Prep
