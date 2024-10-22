@@ -126,6 +126,7 @@
 - [Jina Reader-LM](https://huggingface.co/jinaai/reader-lm-1.5bn) - take noisy HTML and parse it into clean and usable Markdown for training and reasoning.
 - [Introducing Contextual Retrieval (blog post)](https://www.anthropic.com/news/contextual-retrieval) - Anthropic shows how to semantically chunk documents, which dramatically improves performance while only costing $1/million chunks due to caching.
 - [thepi.pe](https://github.com/emcf/thepipe) - Python package that can extract clean markdown from PDFs, URLs, slides, videos, and more, ready for any LLM. - ![GitHub Repo stars](https://img.shields.io/github/stars/emcf/thepipe?style=social)
+- [Montessori-Instruct](https://github.com/cxcscmu/Montessori-Instruct) - Official repository for Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning. - ![GitHub Repo stars](https://img.shields.io/github/stars/cxcscmu/Montessori-Instruct?style=social)
 
 
 ### Fine-tuning
