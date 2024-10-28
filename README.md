@@ -65,6 +65,7 @@
 - [SemanticFinder](https://github.com/do-me/SemanticFinder) - frontend-only live semantic search with transformers.js. - ![GitHub Repo stars](https://img.shields.io/github/stars/do-me/SemanticFinder?style=social)
 - [MindSearch](https://github.com/InternLM/MindSearch) - an open-source AI Search Engine Framework with Perplexity.ai Pro performance. - ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)
 - [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts) - a collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API.  - ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts?style=social)
+- [NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) -  An Open Source version of NotebookLM.  - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-recipes?style=social)
 
 
 ## Components
