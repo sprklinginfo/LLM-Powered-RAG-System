@@ -129,6 +129,7 @@
 - [thepi.pe](https://github.com/emcf/thepipe) - Python package that can extract clean markdown from PDFs, URLs, slides, videos, and more, ready for any LLM. - ![GitHub Repo stars](https://img.shields.io/github/stars/emcf/thepipe?style=social)
 - [Montessori-Instruct](https://github.com/cxcscmu/Montessori-Instruct) - Official repository for Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning. - ![GitHub Repo stars](https://img.shields.io/github/stars/cxcscmu/Montessori-Instruct?style=social)
 - [Marly](https://github.com/marly-ai/marly) - Marly allows your agents to extract tables & text from your PDFs, Powerpoints, etc in a structured format making it easy for them to take subsequent actions (database call, API call, creating a chart etc). - ![GitHub Repo stars](https://img.shields.io/github/stars/marly-ai/marly?style=social)
+- [Docling](https://github.com/DS4SD/docling) - Reads popular document formats (PDF, DOCX, PPTX, Images, HTML, AsciiDoc, Markdown) and exports to Markdown and JSON - ![GitHub Repo stars](https://img.shields.io/github/stars/DS4SD/docling?style=social)
 
 
 ### Fine-tuning
