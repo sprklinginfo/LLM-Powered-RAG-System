@@ -24,7 +24,7 @@
 - [Bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - This fork of Bolt.new for more LLMs.  Bolt.new is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from your browser—no local setup required. ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/bolt.new-any-llm?style=social)
 - [Magentic-One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) - Magentic-One, a multi-agent system for solving open-ended web and file-based tasks across a variety of domains. Magentic-One represents a significant step towards developing agents that can complete tasks that people encounter in their work and personal lives.. ![GitHub Repo stars](https://img.shields.io/github/stars/cmicrosoft/autogen?style=social)
 - [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
-
+- [Project IDX](https://idx.google.com/) - a new web-based development workspace from Google.
 
 
 ## AI-Analysis
