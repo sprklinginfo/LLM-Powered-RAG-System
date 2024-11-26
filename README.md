@@ -23,7 +23,7 @@
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
 - [crewAI](https://github.com/joaomdmoura/crewai/) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
 - [embedchain](https://github.com/embedchain/embedchain) - Embedchain is an Open Source RAG Framework that makes it easy to create and deploy AI apps. - ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
-- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Dense Retrieval and Retrieval-augmented LLMs - ![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social)
+- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Dense Retrieval and Retrieval-augmented  - ![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social)
 - [TaskingAI](https://github.com/TaskingAI/TaskingAI) - Dense Retrieval and Retrieval-augmented LLMs - ![GitHub Repo stars](https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social)
 - [fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework - ![GitHub Repo stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=social)
 - [llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. - ![GitHub Repo stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social)
@@ -175,6 +175,8 @@
 - [CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [Flux](https://github.com/black-forest-labs/flux) - the latest promising open-source AI image generation tool. It is capable of running on consumer-grade laptops.  - ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social)
+- [Sana](https://github.com/NVlabs/Sana) - :framed_picture: an efficient image generation model that can create high-quality 1024x1024 images in under a second on a laptop GPU.  - ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/Sana?style=social)
+
 
 
   
