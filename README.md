@@ -131,6 +131,8 @@
 - [Marly](https://github.com/marly-ai/marly) - Marly allows your agents to extract tables & text from your PDFs, Powerpoints, etc in a structured format making it easy for them to take subsequent actions (database call, API call, creating a chart etc). - ![GitHub Repo stars](https://img.shields.io/github/stars/marly-ai/marly?style=social)
 - [Docling](https://github.com/DS4SD/docling) - Reads popular document formats (PDF, DOCX, PPTX, Images, HTML, AsciiDoc, Markdown) and exports to Markdown and JSON - ![GitHub Repo stars](https://img.shields.io/github/stars/DS4SD/docling?style=social)
 - [DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding - ![GitHub Repo stars](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl?style=social)
+- [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/markitdownl?style=social)
+
 
 ### Fine-tuning
 
