@@ -30,5 +30,10 @@
 
 ## AI-Analysis
 
-- [artificialanalysis.ai](https://artificialanalysis.ai/) - Artificial Analysis is an independent platform that provides comprehensive analysis and comparison of AI language models and API providers, offering detailed insights on quality, speed, and pricing to help users understand the AI landscape and choose the best model for their specific use-case. 
+- [artificialanalysis.ai](https://artificialanalysis.ai/) - Artificial Analysis is an independent platform that provides comprehensive analysis and comparison of AI language models and API providers, offering detailed insights on quality, speed, and pricing to help users understand the AI landscape and choose the best model for their specific use-case.
+
+
+## AI-Assistants
+
+- [Amurex](https://github.com/thepersonalaicompany/amurex) - World's first AI meeting copilot, Amurex is your simple yet powerful AI meeting assistant that seamlessly integrates into your workflow.  ![GitHub Repo stars](https://img.shields.io/github/stars/thepersonalaicompany/amurex?style=social)
 
