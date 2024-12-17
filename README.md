@@ -66,6 +66,7 @@
 - [MindSearch](https://github.com/InternLM/MindSearch) - an open-source AI Search Engine Framework with Perplexity.ai Pro performance. - ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)
 - [Anthropic Quickstarts](https://github.com/anthropics/anthropic-quickstarts) - a collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API.  - ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/anthropic-quickstarts?style=social)
 - [NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) -  An Open Source version of NotebookLM.  - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-recipes?style=social)
+- [Botpress](https://github.com/botpress/v12) -  Botpress is the standard developer stack to build, run, and improve conversational AI applications. Powered by natural language understanding, a messaging API, and a fully featured studio, Botpress allows developers and conversation designers around the globe to build remarkable chatbots without compromise. - ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/v12?style=social)
 
 
 ## Components
