@@ -17,6 +17,7 @@
 ## AI-Image-Generation
 
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - a leading creative engine and simplified setup for Stable Diffusion models, offering a professional-grade web-based UI and CLI that empowers artists, professionals, and enthusiasts to generate and manipulate visual media using cutting-edge AI technologies. ![GitHub Repo stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social)
+- [BrushEdit](https://github.com/TencentARC/BrushEdit) - All-In-One Image Inpainting and Editing. ![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/BrushEdit?style=social)
 
 ## Automated-Coding
 
