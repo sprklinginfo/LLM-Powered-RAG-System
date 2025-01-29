@@ -133,6 +133,7 @@
 - [Docling](https://github.com/DS4SD/docling) - Reads popular document formats (PDF, DOCX, PPTX, Images, HTML, AsciiDoc, Markdown) and exports to Markdown and JSON - ![GitHub Repo stars](https://img.shields.io/github/stars/DS4SD/docling?style=social)
 - [DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding - ![GitHub Repo stars](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl?style=social)
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social)
+- [Maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes. - ![GitHub Repo stars](https://img.shields.io/github/stars/getmaxun/maxun?style=social)  
 
 
 ### Fine-tuning
