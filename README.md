@@ -11,17 +11,22 @@
     - [Data Prep](#data-prep)
     - [Fine-tuning](#fine-tuning)
     - [Others](#others)
+  - [Evaluation](#evaluation)
   - [Inference server](#inference-server)
   - [LLMs](#llms)
   - [Papers](#papers)
   - [Blog](#blog)
   - [Other Resources](#other-resources)
+  
 
 ## Frameworks
 
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
+
+- [graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)
 - [crewAI](https://github.com/joaomdmoura/crewai/) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
+
 - [embedchain](https://github.com/embedchain/embedchain) - Embedchain is an Open Source RAG Framework that makes it easy to create and deploy AI apps. - ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Dense Retrieval and Retrieval-augmented  - ![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social)
 - [TaskingAI](https://github.com/TaskingAI/TaskingAI) - Dense Retrieval and Retrieval-augmented LLMs - ![GitHub Repo stars](https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social)
@@ -61,6 +66,12 @@
 - [trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM - ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/trt-llm-rag-windows?style=social)
 - [GPT-RAG](https://github.com/Azure/GPT-RAG) - GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. - ![GitHub Repo stars](https://img.shields.io/github/stars/Azure/GPT-RAG?style=social) 
 - [rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch - ![GitHub Repo stars](https://img.shields.io/github/stars/pchunduri6/rag-demystified?style=social)
+
+- [cody](https://github.com/sourcegraph/cody) - Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code. - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/cody?style=social)
+- [adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question - ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/adrenaline?style=social)
+- [repo-chat](https://github.com/mckaywrigley/repo-chat) - Use AI to ask questions about any GitHub repo. - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/repo-chat?style=social)
+- [LARS](https://github.com/abgulati/LARS) - An application for running LLMs locally on your device, with your documents, facilitating detailed citations in generated responses. - ![GitHub Repo stars](https://img.shields.io/github/stars/abgulati/LARS?style=social)
+
 - [LARS](https://github.com/abgulati/LARS) - An application for running LLMs locally on your device, with your documents, facilitating detailed citations in generated responses. - ![GitHub Repo stars](https://img.shields.io/github/stars/abgulati/LARS?style=social)
 - [SemanticFinder](https://github.com/do-me/SemanticFinder) - frontend-only live semantic search with transformers.js. - ![GitHub Repo stars](https://img.shields.io/github/stars/do-me/SemanticFinder?style=social)
 - [MindSearch](https://github.com/InternLM/MindSearch) - an open-source AI Search Engine Framework with Perplexity.ai Pro performance. - ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social)
@@ -107,6 +118,10 @@
 - [instructor](https://github.com/jxnl/instructor) - Your Gateway to Structured Outputs with OpenAI
 - [swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open source software that simultaneously searches multiple content sources and returns AI ranked results. - ![GitHub Repo stars](https://img.shields.io/github/stars/swirlai/swirl-search?style=social)
 - [kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/kernel-memory?style=social)
+
+- [RAGFoundry](https://github.com/IntelLabs/RAGFoundry) - Framework for specializing LLMs for retrieval-augmented-generation tasks using fine-tuning. - ![GitHub Repo stars](https://img.shields.io/github/stars/IntelLabs/RAGFoundry?style=social)
+
+
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - a tool for finding optimal RAG pipeline for “your data.” 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social)
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems.  - ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications - ![GitHub Repo stars](https://img.shields.io/github/stars/YiVal/YiVal?style=social)
@@ -142,11 +157,18 @@
 - [axolotl](https://github.com/axolotl-ai-cloud/axolotl) - a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.. - ![GitHub Repo stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social)
 - [LlamaDuo](https://github.com/deep-diver/llamaduo) - This project showcases an LLMOps pipeline that fine-tunes a small-size LLM model to prepare for the outage of the service LLM.  - ![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/llamaduo?style=social)
 
-  
+
 ### Others
 
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/gabrielchua/RAGxplorer?style=social)
+
+- [swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing and query library for AI (RAG) applications, written in Rust - ![GitHub Repo stars](https://img.shields.io/github/stars/bosun-ai/swiftide?style=social)
+
+## Evaluation
+
+- [ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
+
 - [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - a fully customizable AI chat component that can be injected into your website with minimal to no effort. - ![GitHub Repo stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social)
 - [Ollama-Laravel](https://github.com/cloudstudio/ollama-laravel) - a Laravel package providing seamless integration with the Ollama API.. - ![GitHub Repo stars](https://img.shields.io/github/stars/cloudstudio/ollama-laravel?style=social)
 - [fabric](https://github.com/danielmiessler/fabric) - an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. - ![GitHub Repo stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=social)
@@ -181,7 +203,6 @@
 - [Sana](https://github.com/NVlabs/Sana) - :framed_picture: an efficient image generation model that can create high-quality 1024x1024 images in under a second on a laptop GPU.  - ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/Sana?style=social)
 
 
-
   
 ## Papers
 
@@ -202,3 +223,4 @@
 - [rag-resources](https://github.com/mrdbourke/rag-resources) - A collection of curated RAG (Retrieval Augmented Generation) resources.
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
+
