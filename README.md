@@ -134,8 +134,6 @@
 - [DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding - ![GitHub Repo stars](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl?style=social)
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social)
 - [Maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes. - ![GitHub Repo stars](https://img.shields.io/github/stars/getmaxun/maxun?style=social)
-- [Oumi](https://github.com/oumi-ai/oumi) - a fully open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment. - ![GitHub Repo stars](https://img.shields.io/github/stars/umi-ai/oumi?style=social)  
-
 
 
 ### Fine-tuning
@@ -144,6 +142,7 @@
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024). - ![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social)
 - [axolotl](https://github.com/axolotl-ai-cloud/axolotl) - a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.. - ![GitHub Repo stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social)
 - [LlamaDuo](https://github.com/deep-diver/llamaduo) - This project showcases an LLMOps pipeline that fine-tunes a small-size LLM model to prepare for the outage of the service LLM.  - ![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/llamaduo?style=social)
+- [Oumi](https://github.com/oumi-ai/oumi) - a fully open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment. - ![GitHub Repo stars](https://img.shields.io/github/stars/umi-ai/oumi?style=social)  
 
   
 ### Others
