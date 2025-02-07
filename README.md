@@ -36,7 +36,7 @@
 - [GraphRAG](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system. A data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)
 - [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models . - ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social)
 - [Haystack](https://github.com/deepset-ai/haystack) - an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more. - ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
-
+- [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents) - The Atomic Agents framework is designed around the concept of atomicity to be an extremely lightweight and modular framework for building Agentic AI pipelines and applications without sacrificing developer experience and maintainability.  - ![GitHub Repo stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=social)
 
 ## Projects
 
@@ -76,7 +76,7 @@
 - [micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you: JavaScript maily - ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/micro-agent?style=social) 💥 :boom:
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - This repo allows you to run Llama 3.1 as a system capable of performing "agentic" tasks - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
 - [Controllable Agent for Complex RAG](https://github.com/NirDiamant/Controllable-RAG-Agent) - An advanced Retrieval-Augmented Generation (RAG) solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. - ![GitHub Repo stars](https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=social)
-- [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents) - The Atomic Agents framework is designed around the concept of atomicity to be an extremely lightweight and modular framework for building Agentic AI pipelines and applications without sacrificing developer experience and maintainability.  - ![GitHub Repo stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=social)
+
   
 
 ### Chat with Documents
