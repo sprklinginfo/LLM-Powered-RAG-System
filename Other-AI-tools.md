@@ -38,3 +38,7 @@
 
 - [Amurex](https://github.com/thepersonalaicompany/amurex) - World's first AI meeting copilot, Amurex is your simple yet powerful AI meeting assistant that seamlessly integrates into your workflow.  ![GitHub Repo stars](https://img.shields.io/github/stars/thepersonalaicompany/amurex?style=social)
 
+## Data-Analysis
+
+- [Data Formulator](https://github.com/microsoft/data-formulator) - Transform data and create rich visualizations iteratively with AI. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/data-formulator?style=social)
+  
