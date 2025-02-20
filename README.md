@@ -112,8 +112,14 @@
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems.  - ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications - ![GitHub Repo stars](https://img.shields.io/github/stars/YiVal/YiVal?style=social)
 - [LLM Comparator](https://github.com/pair-code/llm-comparator) - LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team. - ![GitHub Repo stars](https://img.shields.io/github/stars/pair-code/llm-comparator?style=social)
-- [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.  - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
 - [Athina](https://github.com/athina-ai/athina-evals) - Athina is an Observability and Experimentation platform for AI teams, Python SDK for running evaluations on LLM generated responses.  - ![GitHub Repo stars](https://img.shields.io/github/stars/athina-ai/athina-evals?style=social)
+- [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.  - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
+
+**Leverage evaluation frameworks and tools**
+[DSPy](https://github.com/stanfordnlp/dspy) – More focused on prompt fine-tuning, but some use its evaluation tools.
+[RAGA](https://github.com/explodinggradients/ragas) & QueryCraft - Popular frameworks for measuring query validity and semantic accuracy.
+[DeepEval](https://github.com/confident-ai/deepeval) - Recommended by Ross Katz for benchmarking and tracking accuracy over time. 
+[Faker](https://faker.readthedocs.io/en/master/) – Generate fake SQL databases for testing. (Médéric Hurier)
 
 
 ### Data Prep
