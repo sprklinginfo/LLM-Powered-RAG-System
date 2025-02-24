@@ -120,7 +120,7 @@
 - [RAGA](https://github.com/explodinggradients/ragas) & QueryCraft - Popular frameworks for measuring query validity and semantic accuracy.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Recommended by Ross Katz for benchmarking and tracking accuracy over time. 
 - [Faker](https://faker.readthedocs.io/en/master/) – Generate fake SQL databases for testing. (Médéric Hurier)
-
+- [Chatbot Usability Questionnaire](https://www.ulster.ac.uk/research/topic/computer-science/artificial-intelligence/projects/cuq)
 
 ### Data Prep
 
