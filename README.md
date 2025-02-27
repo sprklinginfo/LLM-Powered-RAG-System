@@ -7,7 +7,7 @@
     - [AI Agents](#ai-agents)
     - [Chat with Documents](#chat-with-documents)
     - [Database](#database)
-    - [Optimize/Evaluation Method](#optimizeevaluation-method)
+    - [Optimization/Evaluation Method](#optimizeevaluation-method)
     - [Data Prep](#data-prep)
     - [Fine-tuning](#fine-tuning)
     - [Others](#others)
@@ -100,7 +100,7 @@
 - [lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! - ![GitHub Repo stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social)
   
 
-### Optimize/Evaluation Method
+### Optimization/Evaluation Method
 
 - [sparrow](https://github.com/katanaml/sparrow) - Data extraction with ML and LLM - ![GitHub Repo stars](https://img.shields.io/github/stars/katanaml/sparrow?style=social)
 - [fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding - ![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social)
@@ -114,6 +114,7 @@
 - [LLM Comparator](https://github.com/pair-code/llm-comparator) - LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team. - ![GitHub Repo stars](https://img.shields.io/github/stars/pair-code/llm-comparator?style=social)
 - [Athina](https://github.com/athina-ai/athina-evals) - Athina is an Observability and Experimentation platform for AI teams, Python SDK for running evaluations on LLM generated responses.  - ![GitHub Repo stars](https://img.shields.io/github/stars/athina-ai/athina-evals?style=social)
 - [Ragas](https://github.com/explodinggradients/ragas) - a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.  - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
+- [AISafetyLab](https://github.com/thu-coai/AISafetyLab) - A comprehensive framework covering safety attack, defense, evaluation and paper list..  - ![GitHub Repo stars](https://img.shields.io/github/stars/thu-coai/AISafetyLab?style=social)
 
 **Leverage evaluation frameworks and tools, notes from other sources**
 - [DSPy](https://github.com/stanfordnlp/dspy) – More focused on prompt fine-tuning, but some use its evaluation tools.
@@ -141,6 +142,7 @@
 - [DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding - ![GitHub Repo stars](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl?style=social)
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social)
 - [Maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes. - ![GitHub Repo stars](https://img.shields.io/github/stars/getmaxun/maxun?style=social)
+- [olmocr](https://github.com/allenai/olmocr) - A toolkit for training language models to work with PDF documents in the wild. - ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)
 
 
 ### Fine-tuning
