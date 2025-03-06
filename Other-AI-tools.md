@@ -4,6 +4,10 @@
 - [AI Tools](#ai-tools)
   - [Research-Tools](#research-tools)
   - [AI-Image-Generation](#ai-image-generation)
+  - [Automated-Coding](#automated-coding)
+  - [AI-TTS](#ai-tts)
+  - [AI-Assistants](#ai-assistants)
+  - [Data-Analysis](#data-analysis)
 
 
 ## Research-Tools
@@ -28,6 +32,9 @@
 - [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [Project IDX](https://idx.google.com/) - a new web-based development workspace from Google.
 
+## AI-TTS
+
+- [Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Aan advanced text-to-speech system that uses the power of large language models (LLM) for highly accurate and natural-sounding voice synthesis.. ![GitHub Repo stars](https://img.shields.io/github/stars/SparkAudio/Spark-TTS?style=social)
 
 ## AI-Analysis
 
