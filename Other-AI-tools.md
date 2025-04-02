@@ -31,6 +31,7 @@
 - [Magentic-One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one) - Magentic-One, a multi-agent system for solving open-ended web and file-based tasks across a variety of domains. Magentic-One represents a significant step towards developing agents that can complete tasks that people encounter in their work and personal lives.. ![GitHub Repo stars](https://img.shields.io/github/stars/cmicrosoft/autogen?style=social)
 - [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [Project IDX](https://idx.google.com/) - a new web-based development workspace from Google.
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI. ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 
 ## AI-TTS
 
