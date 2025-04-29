@@ -68,7 +68,8 @@
 - [NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) -  An Open Source version of NotebookLM.  - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-recipes?style=social)
 - [Botpress](https://github.com/botpress/v12) -  Botpress is the standard developer stack to build, run, and improve conversational AI applications. Powered by natural language understanding, a messaging API, and a fully featured studio, Botpress allows developers and conversation designers around the globe to build remarkable chatbots without compromise. - ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/v12?style=social)
 - [llama-stack](https://github.com/meta-llama/llama-stack) - Llama Stack standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem. - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-stack?style=social)
-  
+- [Sim Studio](https://github.com/simstudioai/sim) - Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. - ![GitHub Repo stars](https://img.shields.io/github/stars/simstudioai/sim?style=social)  
+
 
 ## Components
 
