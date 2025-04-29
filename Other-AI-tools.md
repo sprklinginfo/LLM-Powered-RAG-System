@@ -32,6 +32,7 @@
 - [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [Project IDX](https://idx.google.com/) - a new web-based development workspace from Google.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI. ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
+- [web-eval-agent](https://github.com/Operative-Sh/web-eval-agent) - operative.sh web-eval-agent MCP Server. An MCP server that autonomously evaluates web applications. ![GitHub Repo stars](https://img.shields.io/github/stars/Operative-Sh/web-eval-agent?style=social)
 
 ## AI-TTS
 
