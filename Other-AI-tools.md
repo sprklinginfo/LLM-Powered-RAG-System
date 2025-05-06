@@ -15,7 +15,9 @@
 - [storm](https://github.com/stanford-oval/storm) - ⚡ An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)
 - [MiniPerplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. ![GitHub Repo stars](https://img.shields.io/github/stars/zaidmukaddam/miniperplx?style=social)
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - an AI-powered search engine. It is an Open source alternative to Perplexity AI. ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social)
-- [OpenScholar](https://github.com/AkariAsai/OpenScholar) - This repository includes the official implementation of OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs.. ![GitHub Repo stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=social)
+- [OpenScholar](https://github.com/AkariAsai/OpenScholar) - This repository includes the official implementation of OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs. ![GitHub Repo stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=social)
+- [WebThinker](https://github.com/RUC-NLPIR/WebThinker) - Ta deep research framework fully powered by large reasoning models (LRMs). WebThinker enables LRMs to autonomously search, deeply explore web pages, and draft research reports, all within their thinking process. ![GitHub Repo stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)
+
 
 
 ## AI-Image-Generation
