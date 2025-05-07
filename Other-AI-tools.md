@@ -41,6 +41,7 @@
 - [Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Aan advanced text-to-speech system that uses the power of large language models (LLM) for highly accurate and natural-sounding voice synthesis.. ![GitHub Repo stars](https://img.shields.io/github/stars/SparkAudio/Spark-TTS?style=social)
 - [csm-mlx](https://github.com/senstella/csm-mlx) - An implementation of the CSM(Conversation Speech Model) for Apple Silicon using MLX.. ![GitHub Repo stars](https://img.shields.io/github/stars/senstella/csm-mlx?style=social)
 - [orpheus-cpp](https://github.com/freddyaboulton/orpheus-cpp) - Fast Streaming TTS with Orpheus + WebRTC (with FastRTC). ![GitHub Repo stars](https://img.shields.io/github/stars/freddyaboulton/orpheus-cpp?style=social)
+- [nvidia/parakeet-tdt-0.6b-v2](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2) - It’s the second-gen automatic speech recognition model from NVIDIA, and it’s absurdly fast. 
 
 ## AI-Analysis
 
