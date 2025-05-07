@@ -17,7 +17,7 @@
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - an AI-powered search engine. It is an Open source alternative to Perplexity AI. ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social)
 - [OpenScholar](https://github.com/AkariAsai/OpenScholar) - This repository includes the official implementation of OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs. ![GitHub Repo stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=social)
 - [WebThinker](https://github.com/RUC-NLPIR/WebThinker) - A deep research framework fully powered by large reasoning models (LRMs). WebThinker enables LRMs to autonomously search, deeply explore web pages, and draft research reports, all within their thinking process. ![GitHub Repo stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)
-
+- [cleverbee](https://github.com/SureScaleAI/cleverbee) - The Open Source Deep Researcher Tool。 ![GitHub Repo stars](https://img.shields.io/github/stars/SureScaleAI/cleverbee?style=social)
 
 
 ## AI-Image-Generation
