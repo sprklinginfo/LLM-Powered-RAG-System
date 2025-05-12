@@ -18,6 +18,7 @@
 - [OpenScholar](https://github.com/AkariAsai/OpenScholar) - This repository includes the official implementation of OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs. ![GitHub Repo stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=social)
 - [WebThinker](https://github.com/RUC-NLPIR/WebThinker) - A deep research framework fully powered by large reasoning models (LRMs). WebThinker enables LRMs to autonomously search, deeply explore web pages, and draft research reports, all within their thinking process. ![GitHub Repo stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)
 - [cleverbee](https://github.com/SureScaleAI/cleverbee) - The Open Source Deep Researcher Tool。 ![GitHub Repo stars](https://img.shields.io/github/stars/SureScaleAI/cleverbee?style=social)
+- [DeerFlow](https://github.com/bytedance/deer-flow) - a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 
 
 ## AI-Image-Generation
