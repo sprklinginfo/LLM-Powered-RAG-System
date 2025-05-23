@@ -4,7 +4,7 @@
 - [AI Tools](#ai-tools)
   - [Research-Tools](#research-tools)
   - [AI-Image-Generation](#ai-image-generation)
-  - [Automated-Coding](#automated-coding)
+  - [Agentic-Coding](#agentic-coding)
   - [AI-TTS](#ai-tts)
   - [AI-Assistants](#ai-assistants)
   - [Data-Analysis](#data-analysis)
@@ -26,7 +26,7 @@
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - a leading creative engine and simplified setup for Stable Diffusion models, offering a professional-grade web-based UI and CLI that empowers artists, professionals, and enthusiasts to generate and manipulate visual media using cutting-edge AI technologies. ![GitHub Repo stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social)
 - [BrushEdit](https://github.com/TencentARC/BrushEdit) - All-In-One Image Inpainting and Editing. ![GitHub Repo stars](https://img.shields.io/github/stars/TencentARC/BrushEdit?style=social)
 
-## Automated-Coding
+## Agentic-Coding
 
 - [Aider](https://github.com/paul-gauthier/aider) - an open-source AI pair programming tool that runs in your terminal, allowing you to collaborate with Large Language Models (LLMs) like GPT-4 and Claude to edit code in your local git repository, automatically committing changes and supporting multiple programming languages. ![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social)
 - [Sweep](https://github.com/sweepai/sweep) - an open-source AI-powered software developer that automatically transforms GitHub issues describing bugs and feature requests into code changes, streamlining the development process for small tasks across various programming languages. ![GitHub Repo stars](https://img.shields.io/github/stars/sweepai/sweep?style=social)
@@ -36,6 +36,8 @@
 - [Project IDX](https://idx.google.com/) - a new web-based development workspace from Google.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI. ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 - [web-eval-agent](https://github.com/Operative-Sh/web-eval-agent) - operative.sh web-eval-agent MCP Server. An MCP server that autonomously evaluates web applications. ![GitHub Repo stars](https://img.shields.io/github/stars/Operative-Sh/web-eval-agent?style=social)
+- [code-knowledgebase-builder](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI ![GitHub Repo stars](https://img.shields.io/github/stars/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=social)
+- [aicoding_rules_template](https://github.com/sprklinginfo/aicoding_rules_template) 
 
 ## AI-TTS
 
