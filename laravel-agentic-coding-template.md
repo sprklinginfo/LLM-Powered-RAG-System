@@ -5,7 +5,7 @@ title: "Laravel Agentic Coding Template"
 
 # Laravel Agentic Coding: Humans Design, AI Implements!
 
-> This template adapts the Agentic Coding methodology for Laravel development. Customize this for your specific Laravel project (Laravel 10, 11, etc.). Throughout development, you should always (1) start with a small and simple solution, (2) design at a high level before implementation, and (3) frequently ask humans for feedback and clarification.
+> If you are an AI agents involved in building Laravel applications, read this guide **VERY, VERY** carefully! This is the most important chapter in the entire document. Throughout development, you should always (1) start with a small and simple solution, (2) design at a high level before implementation, and (3) frequently ask humans for feedback and clarification.
 > {: .warning }
 
 ## Project Configuration
@@ -20,36 +20,39 @@ title: "Laravel Agentic Coding Template"
 
 Agentic Coding should be a collaboration between Human System Design and AI Implementation:
 
-| Steps             |   Human    |     AI     | Comment                                                                                        |
-| :---------------- | :--------: | :--------: | :--------------------------------------------------------------------------------------------- |
-| 1. Requirements   |  ★★★ High  |  ★☆☆ Low   | Humans understand the business requirements and Laravel context.                               |
-| 2. Architecture   | ★★☆ Medium | ★★☆ Medium | Humans specify the high-level Laravel architecture, AI fills in implementation details.        |
-| 3. Services       | ★★☆ Medium | ★★☆ Medium | Humans define external integrations and APIs, AI helps with Laravel service implementations.   |
-| 4. Models & Logic |  ★☆☆ Low   |  ★★★ High  | AI designs Eloquent models, relationships, and business logic based on requirements.          |
-| 5. Implementation |  ★☆☆ Low   |  ★★★ High  | AI implements controllers, views, routes, and middleware following Laravel conventions.        |
-| 6. Optimization   | ★★☆ Medium | ★★☆ Medium | Humans evaluate results, AI helps optimize queries, caching, and performance.                 |
-| 7. Testing        |  ★☆☆ Low   |  ★★★ High  | AI writes comprehensive tests (Feature, Unit, Browser) and handles edge cases.                |
+| Steps             |   Human    |     AI     | Comment                                                                                      |
+| :---------------- | :--------: | :--------: | :------------------------------------------------------------------------------------------- |
+| 1. Requirements   |  ★★★ High  |  ★☆☆ Low   | Humans understand the business requirements and Laravel context.                             |
+| 2. Architecture   | ★★☆ Medium | ★★☆ Medium | Humans specify the high-level Laravel architecture, AI fills in implementation details.      |
+| 3. Services       | ★★☆ Medium | ★★☆ Medium | Humans define external integrations and APIs, AI helps with Laravel service implementations. |
+| 4. Models & Logic |  ★☆☆ Low   |  ★★★ High  | AI designs Eloquent models, relationships, and business logic based on requirements.         |
+| 5. Implementation |  ★☆☆ Low   |  ★★★ High  | AI implements controllers, views, routes, and middleware following Laravel conventions.      |
+| 6. Optimization   | ★★☆ Medium | ★★☆ Medium | Humans evaluate results, AI helps optimize queries, caching, and performance.                |
+| 7. Testing        |  ★☆☆ Low   |  ★★★ High  | AI writes comprehensive tests (Feature, Unit, Browser) and handles edge cases.               |
 
 ### 1. Requirements
 
-Clarify the requirements for your Laravel project and evaluate the best approach:
-
-- **Laravel Strengths:**
-  - **Good for**: CRUD applications, APIs, admin panels, e-commerce platforms
-  - **Good for**: Rapid prototyping with Eloquent ORM and Blade templating
-  - **Good for**: Authentication, authorization, and user management systems
-  - **Not ideal for**: Real-time applications (consider Laravel WebSockets/Pusher), heavy computational tasks
+1. **Requirements**: Clarify the requirements for your project, and evaluate whether an AI system is a good fit.
+   - Understand AI systems' strengths and limitations:
+     - **Good for**: Routine tasks requiring common sense (filling forms, replying to emails)
+     - **Good for**: Creative tasks with well-defined inputs (building slides, writing SQL)
+     - **Not good for**: Ambiguous problems requiring complex decision-making (business strategy, startup planning)
+   - **Keep It User-Centric:** Explain the "problem" from the user's perspective rather than just listing features.
+   - **Balance complexity vs. impact**: Aim to deliver the highest value features with minimal complexity early.
 
 - **Keep It User-Centric:** Focus on the end-user experience and business value
 - **Laravel-First Approach:** Leverage Laravel's built-in features before adding complexity
 
 **Example Requirements Template:**
+
 ```markdown
 ## User Stories
+
 - As a [user type], I want to [action] so that [benefit]
 - As a [user type], I want to [action] so that [benefit]
 
 ## Functional Requirements
+
 - Authentication and authorization
 - CRUD operations for [entities]
 - API endpoints for [mobile app/frontend]
@@ -57,6 +60,7 @@ Clarify the requirements for your Laravel project and evaluate the best approach
 - File uploads and management
 
 ## Non-Functional Requirements
+
 - Performance: Page load < 2 seconds
 - Security: OWASP compliance
 - Scalability: Support [X] concurrent users
@@ -67,6 +71,7 @@ Clarify the requirements for your Laravel project and evaluate the best approach
 Outline the Laravel application architecture and design patterns:
 
 - **Identify Laravel Patterns:**
+
   - **Repository Pattern**: For complex data access logic
   - **Service Pattern**: For business logic separation
   - **Observer Pattern**: For model events and side effects
@@ -74,6 +79,7 @@ Outline the Laravel application architecture and design patterns:
   - **Job Pattern**: For background processing
 
 - **Database Design:**
+
   ```mermaid
   erDiagram
       User ||--o{ Post : creates
@@ -117,20 +123,22 @@ Outline the Laravel application architecture and design patterns:
 Based on the Architecture Design, identify and implement necessary services:
 
 - **Laravel Services** (business logic layer):
+
   - Reading inputs (form requests, API calls, file uploads)
   - Writing outputs (email notifications, file generation, API responses)
   - External integrations (payment gateways, third-party APIs, cloud services)
 
 - **Service Implementation Example:**
+
   ```php
   // app/Services/PaymentService.php
   <?php
-  
+
   namespace App\Services;
-  
+
   use App\Models\Order;
   use Illuminate\Support\Facades\Http;
-  
+
   class PaymentService
   {
       public function processPayment(Order $order, array $paymentData): array
@@ -141,7 +149,7 @@ Based on the Architecture Design, identify and implement necessary services:
               'currency' => 'USD',
               'source' => $paymentData['token'],
           ]);
-          
+
           return $response->json();
       }
   }
@@ -158,12 +166,13 @@ Based on the Architecture Design, identify and implement necessary services:
 Plan Eloquent models, relationships, and database structure:
 
 - **Eloquent Models:**
+
   ```php
   // app/Models/User.php
   class User extends Authenticatable
   {
       protected $fillable = ['name', 'email', 'password'];
-      
+
       public function posts(): HasMany
       {
           return $this->hasMany(Post::class);
@@ -172,6 +181,7 @@ Plan Eloquent models, relationships, and database structure:
   ```
 
 - **Migration Design:**
+
   ```php
   // database/migrations/create_posts_table.php
   Schema::create('posts', function (Blueprint $table) {
@@ -181,7 +191,7 @@ Plan Eloquent models, relationships, and database structure:
       $table->text('content');
       $table->timestamp('published_at')->nullable();
       $table->timestamps();
-      
+
       $table->index(['user_id', 'published_at']);
   });
   ```
@@ -202,6 +212,7 @@ Implement Laravel components following conventions:
 - **Leverage Laravel Features**: Use built-in authentication, authorization, caching, queues
 
 **Implementation Checklist:**
+
 - [ ] Routes (web.php, api.php)
 - [ ] Controllers with proper HTTP methods
 - [ ] Form Requests for validation
@@ -215,21 +226,23 @@ Implement Laravel components following conventions:
 ### 6. Optimization
 
 - **Laravel-Specific Optimizations:**
+
   - **Database**: Query optimization, eager loading, database indexing
   - **Caching**: Route caching, config caching, view caching, Redis/Memcached
   - **Performance**: Queue jobs, horizon for monitoring, octane for speed
   - **Code**: Service container optimization, autoloader optimization
 
 - **Optimization Examples:**
+
   ```php
   // Eager loading to prevent N+1 queries
   $users = User::with('posts.comments')->get();
-  
+
   // Caching expensive operations
   $stats = Cache::remember('user-stats', 3600, function () {
       return User::selectRaw('COUNT(*) as total, AVG(age) as avg_age')->first();
   });
-  
+
   // Background job processing
   SendWelcomeEmail::dispatch($user);
   ```
@@ -237,24 +250,26 @@ Implement Laravel components following conventions:
 ### 7. Testing & Reliability
 
 - **Laravel Testing Strategy:**
+
   - **Feature Tests**: Test HTTP endpoints and user workflows
   - **Unit Tests**: Test individual classes and methods
   - **Browser Tests**: Test JavaScript interactions with Laravel Dusk
   - **API Tests**: Test API endpoints and responses
 
 - **Testing Examples:**
+
   ```php
   // tests/Feature/PostTest.php
   public function test_user_can_create_post()
   {
       $user = User::factory()->create();
-      
+
       $response = $this->actingAs($user)
           ->post('/posts', [
               'title' => 'Test Post',
               'content' => 'This is a test post content.'
           ]);
-      
+
       $response->assertRedirect('/posts');
       $this->assertDatabaseHas('posts', [
           'title' => 'Test Post',
@@ -299,6 +314,7 @@ laravel-project/
 ## Laravel-Specific Best Practices
 
 ### Code Organization
+
 - **Controllers**: Keep thin, delegate to services
 - **Models**: Focus on relationships and data access
 - **Services**: Handle business logic
@@ -307,6 +323,7 @@ laravel-project/
 - **Resources**: Transform API responses
 
 ### Security
+
 - Use Laravel's built-in CSRF protection
 - Implement proper authorization with Gates and Policies
 - Sanitize user input with validation rules
@@ -314,6 +331,7 @@ laravel-project/
 - Implement rate limiting for APIs
 
 ### Performance
+
 - Use database indexing strategically
 - Implement caching at multiple levels
 - Use queue jobs for heavy operations
@@ -321,6 +339,7 @@ laravel-project/
 - Use Laravel Octane for production performance
 
 ### Testing
+
 - Write tests for all critical business logic
 - Use factories for test data generation
 - Mock external services in tests
@@ -330,17 +349,20 @@ laravel-project/
 ## Customization Notes
 
 **For Laravel 10 Projects:**
+
 - Update PHP version requirements (8.1+)
 - Consider using Laravel Pennant for feature flags
 - Leverage improved validation and routing features
 
 **For Laravel 11 Projects:**
+
 - Update PHP version requirements (8.2+)
 - Use new application structure if applicable
 - Leverage latest Eloquent and database features
 - Consider new testing improvements
 
 **Project-Specific Customizations:**
+
 - [ ] Update Laravel version and PHP requirements
 - [ ] Modify database configuration
 - [ ] Add project-specific packages and dependencies
@@ -350,4 +372,4 @@ laravel-project/
 
 ---
 
-*This template should be customized for each Laravel project. Remove sections that don't apply and add project-specific requirements, constraints, and conventions.*
+_This template should be customized for each Laravel project. Remove sections that don't apply and add project-specific requirements, constraints, and conventions._
