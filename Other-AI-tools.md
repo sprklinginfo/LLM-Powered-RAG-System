@@ -37,7 +37,8 @@
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI. ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 - [web-eval-agent](https://github.com/Operative-Sh/web-eval-agent) - operative.sh web-eval-agent MCP Server. An MCP server that autonomously evaluates web applications. ![GitHub Repo stars](https://img.shields.io/github/stars/Operative-Sh/web-eval-agent?style=social)
 - [code-knowledgebase-builder](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI ![GitHub Repo stars](https://img.shields.io/github/stars/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?style=social)
-- [aicoding_rules_template](https://github.com/sprklinginfo/aicoding_rules_template) 
+- [aicoding_rules_template](https://github.com/sprklinginfo/aicoding_rules_template)
+- [Container Use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. ![GitHub Repo stars](https://img.shields.io/github/stars/dagger/container-use?style=social)
 
 ## AI-TTS
 
