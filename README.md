@@ -145,6 +145,8 @@
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social)
 - [Maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes. - ![GitHub Repo stars](https://img.shields.io/github/stars/getmaxun/maxun?style=social)
 - [olmocr](https://github.com/allenai/olmocr) - A toolkit for training language models to work with PDF documents in the wild. - ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)
+- [Chonkie](https://github.com/chonkie-inc/chonkie) - CHONK your texts with Chonkie ✨ — The no-nonsense RAG chunking library. - ![GitHub Repo stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=social)
+
 
 
 ### Fine-tuning
