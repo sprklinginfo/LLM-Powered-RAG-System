@@ -180,7 +180,7 @@
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs). - ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)
 - [LitServe](https://github.com/Lightning-AI/LitServe) - an easy-to-use, flexible serving engine for AI models built on FastAPI. Features like batching, streaming, and GPU autoscaling eliminate the need to rebuild a FastAPI server per model. - ![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social)
 - [SGLang](https://github.com/sgl-project/sglang) - a fast-serving framework for large language models and vision language models. - ![GitHub Repo stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)
-
+- [oLLM](https://github.com/Mega4alik/ollm) - oLLM is a lightweight Python library for large-context LLM inference, built on top of Huggingface Transformers and PyTorch. - ![GitHub Repo stars](https://img.shields.io/github/stars/Mega4alik/ollm?style=social)
 
 ## LLMs
 
