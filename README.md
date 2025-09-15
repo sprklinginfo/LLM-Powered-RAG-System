@@ -147,6 +147,7 @@
 - [olmocr](https://github.com/allenai/olmocr) - A toolkit for training language models to work with PDF documents in the wild. - ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)
 - [Chonkie](https://github.com/chonkie-inc/chonkie) - CHONK your texts with Chonkie ✨ — The no-nonsense RAG chunking library. - ![GitHub Repo stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=social)
 - [docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. the release of Nanonets-OCR-s, a compact 3B parameter model specifically trained for efficient image to markdown conversion with semantic understanding for images, signatures, watermarks, etc. - ![GitHub Repo stars](https://img.shields.io/github/stars/NanoNets/docext?style=social)
+- [Mdream](https://github.com/harlan-zw/mdream) - Convert any site to clean markdown & llms.txt. Boost your site's AI discoverability or generate LLM context for a project you're working with - ![GitHub Repo stars](https://img.shields.io/github/stars/harlan-zw/mdream?style=social) 
 
 
 
