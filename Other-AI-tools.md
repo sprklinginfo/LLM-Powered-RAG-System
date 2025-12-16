@@ -48,6 +48,7 @@
 - [orpheus-cpp](https://github.com/freddyaboulton/orpheus-cpp) - Fast Streaming TTS with Orpheus + WebRTC (with FastRTC). ![GitHub Repo stars](https://img.shields.io/github/stars/freddyaboulton/orpheus-cpp?style=social)
 - [nvidia/parakeet-tdt-0.6b-v2](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2) - It’s the second-gen automatic speech recognition model from NVIDIA, and it’s absurdly fast.
 - [chatterbox](https://github.com/resemble-ai/chatterbox) - production-grade open source TTS model. ![GitHub Repo stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social)
+- [MegaTTS3](https://github.com/bytedance/MegaTTS3) - Ultra High-Quality Voice Cloning ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/MegaTTS3?style=social)
 
 ## AI-Analysis
 
