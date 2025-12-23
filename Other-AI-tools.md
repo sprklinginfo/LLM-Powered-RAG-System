@@ -40,7 +40,8 @@
 - [aicoding_rules_template](https://github.com/sprklinginfo/aicoding_rules_template)
 - [Container Use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. ![GitHub Repo stars](https://img.shields.io/github/stars/dagger/container-use?style=social)
 - [taskmaster-ai](https://github.com/eyaltoledano/claude-task-master) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.  ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master?style=social)
-- [Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. [GitHub Repo stars](https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineeringstyle=social)
+- [Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. [GitHub Repo stars](https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=social)
+- [OpenManus](https://github.com/FoundationAgents/OpenManus) - A open-source version of Manus.  ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
 
 ## AI-TTS
 
