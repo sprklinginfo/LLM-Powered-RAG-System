@@ -43,6 +43,8 @@
 - [Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. [GitHub Repo stars](https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=social)
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - An open-source version of Manus.  ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
 - [Stirrup](https://github.com/ArtificialAnalysis/Stirrup) - The lightweight framework for building agents.  ![GitHub Repo stars](https://img.shields.io/github/stars/ArtificialAnalysis/Stirrup?style=social)
+- [Chunkhound](https://github.com/chunkhound/chunkhound) - a local‑first “codebase intelligence” tool you run on your machine to index code and related files, then query them using semantic search, regex, or a multi‑hop “research” mode.  ![GitHub Repo stars](https://img.shields.io/github/stars/chunkhound/chunkhound?style=social)
+
 
 ## AI-TTS
 
