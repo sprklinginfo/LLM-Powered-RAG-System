@@ -44,7 +44,8 @@
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - An open-source version of Manus.  ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
 - [Stirrup](https://github.com/ArtificialAnalysis/Stirrup) - The lightweight framework for building agents.  ![GitHub Repo stars](https://img.shields.io/github/stars/ArtificialAnalysis/Stirrup?style=social)
 - [Chunkhound](https://github.com/chunkhound/chunkhound) - a local‑first “codebase intelligence” tool you run on your machine to index code and related files, then query them using semantic search, regex, or a multi‑hop “research” mode.  ![GitHub Repo stars](https://img.shields.io/github/stars/chunkhound/chunkhound?style=social)
-
+- [agent skills Collection](https://playbooks.com/skills)  a skills directory with a file explorer to read the skill, an upvote/downvote system and a cli to bring them to your projects.
+ 
 
 ## AI-TTS
 
