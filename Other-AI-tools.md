@@ -46,7 +46,8 @@
 - [Chunkhound](https://github.com/chunkhound/chunkhound) - a local‑first “codebase intelligence” tool you run on your machine to index code and related files, then query them using semantic search, regex, or a multi‑hop “research” mode.  ![GitHub Repo stars](https://img.shields.io/github/stars/chunkhound/chunkhound?style=social)
 - [agent skills Collection](https://playbooks.com/skills)  a skills directory with a file explorer to read the skill, an upvote/downvote system and a cli to bring them to your projects.
 - [Skill library in clawhub](https://www.clawhub.ai/skills)
-- [Superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works..  ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social)
+- [Superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.  ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social)
+- [OpenAI's Skills Catalog](https://github.com/openai/skills) - Skills Catalog for OpenAI's Codex.  ![GitHub Repo stars](https://img.shields.io/github/stars/openai/skills?style=social)
  
 
 ## AI-TTS
